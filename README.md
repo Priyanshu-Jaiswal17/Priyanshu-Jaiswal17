@@ -8,7 +8,6 @@ I'm a passionate Python programmer with hands-on experience in backend web devel
 ---
 ## 🚀 Skills & Technologies
 - **Languages:** Python, SQl, HTML/CSS
-- **Frameworks:** Flask
 - **Tools:** Git, GitHub, VS Code, Postman, ChatGPT
 ---
 ## 📈 Currently Learning
