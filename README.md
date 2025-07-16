@@ -4,27 +4,17 @@
 I'm a passionate Python programmer with hands-on experience in backend web development using Flask and MySQL. I love building projects, learning new tech, and continuously improving my skills through real-world problem solving.
 
 ---
-
 🎓 Education B.Tech in Computer Science Mahakal Institute of Technology
-
 ---
-
 ## 🚀 Skills & Technologies
-
-- **Languages:** Python, C, C++
-- **Backend:** Flask, MySQL, SQLite
-- **Frontend:** HTML, CSS, React (Basics)
-- **Tools:** Git, GitHub, VS Code
-
+- **Languages:** Python, SQl, HTML/CSS
+- **Frameworks:** Flask
+- **Tools:** Git, GitHub, VS Code, Postman, ChatGPT
 ---
-
 ## 📈 Currently Learning
-
 - Django (Advanced backend)
 - APIs and authentication
-- Hosting Flask apps
 - GitHub project workflow
-  
 ---
 
 ## 📬 Get in Touch
@@ -33,8 +23,5 @@ I'm a passionate Python programmer with hands-on experience in backend web devel
 📍 Location: Madhya Pradesh,India
 
 ---
-
-### 🧠 Motto
-> “Learn by building. Build by learning.”
 
 Thanks for visiting my profile! ⭐️
